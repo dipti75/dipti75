@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fahmida Afrose Dipti</h1>
+<h3 align="center">UI/UX Designer from Bangladesh</h3>
 
-<!--
-**dipti75/dipti75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Junior UI/UX Designer
+- 🌱 I’m learning Product Design & UX Research
+- 🎨 I design Mobile Apps, Websites & Dashboards
+- 💬 Ask me about UI/UX, Figma, Wireframing
+- 📫 Email: your-email@gmail.com
+
+---
+
+### 🛠 Design Tools
+
+Figma  
+Adobe XD  
+Photoshop  
+Illustrator  
+
+---
+
+### 🌐 Connect With Me
+
+LinkedIn  
+Dribbble  
+Behance
