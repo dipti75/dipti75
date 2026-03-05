@@ -1,7 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="640">
-<br><br>
-
-<h1 align="center">Hi 👋, I'm Rifat Hossan</h1>
+<h1 align="center">Hi 👋, I'm Fahamida Afrose Dipti</h1>
 <h3 align="center">A passionate UI/UX Designer from Bangaldesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-hossan&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-hossan" /> </p>
